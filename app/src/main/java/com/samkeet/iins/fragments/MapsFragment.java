@@ -1,4 +1,4 @@
-package com.samkeet.iins;
+package com.samkeet.iins.fragments;
 
 import android.content.Context;
 import android.content.DialogInterface;
@@ -30,6 +30,8 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MapStyleOptions;
 import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.samkeet.iins.Constants;
+import com.samkeet.iins.R;
 
 /**
  * Created by leelash on 04-05-2017.

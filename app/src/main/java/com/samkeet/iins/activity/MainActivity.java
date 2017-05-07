@@ -1,4 +1,4 @@
-package com.samkeet.iins;
+package com.samkeet.iins.activity;
 
 import android.content.Context;
 import android.hardware.Sensor;
@@ -10,6 +10,10 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Window;
 import android.view.WindowManager;
+
+import com.samkeet.iins.R;
+import com.samkeet.iins.fragments.CameraFragment;
+import com.samkeet.iins.fragments.MapsFragment;
 
 public class MainActivity extends AppCompatActivity {
 

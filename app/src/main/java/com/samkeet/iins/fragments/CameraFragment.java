@@ -1,4 +1,4 @@
-package com.samkeet.iins;
+package com.samkeet.iins.fragments;
 
 import android.Manifest;
 import android.content.pm.PackageManager;
@@ -14,6 +14,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.Toast;
+
+import com.samkeet.iins.CameraPreview;
+import com.samkeet.iins.R;
 
 /**
  * Created by leelash on 04-05-2017.

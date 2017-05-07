@@ -4,7 +4,7 @@
     android:id="@+id/activity_launcher"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.samkeet.iins.MainActivity">
+    tools:context="com.samkeet.iins.activity.MainActivity">
 
     <fragment xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/map"
