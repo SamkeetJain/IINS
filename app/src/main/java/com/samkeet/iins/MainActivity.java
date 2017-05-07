@@ -79,6 +79,7 @@ public class MainActivity extends AppCompatActivity {
         mSensorManager.unregisterListener(rvListener, mSensor);
     }
 
+
     @Override
     protected void onResume() {
         super.onResume();
